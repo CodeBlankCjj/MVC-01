@@ -1,0 +1,36 @@
+Arguments: 
+  D:\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init
+
+PATH: 
+  D:\cmder\vendor\git-for-windows\cmd;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\Users\CodeBrankCjj\AppData\Local\Microsoft\WindowsApps;C:\Users\CodeBrankCjj\AppData\Roaming\npm;C:\Users\CodeBrankCjj\AppData\Local\Yarn\bin;C:\Users\CodeBrankCjj\AppData\Local\Programs\Microsoft VS Code\bin;D:\cmder\vendor\git-for-windows\mingw64\bin;D:\cmder\vendor\git-for-windows\usr\bin;D:\cmder\vendor\bin;D:\cmder
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  14.17.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:137009:13)
+      at Interface.emit (events.js:376:20)
+      at Interface._ttyWrite (readline.js:880:16)
+      at ReadStream.onkeypress (readline.js:213:10)
+      at ReadStream.emit (events.js:376:20)
+      at emitKeys (internal/readline/utils.js:345:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1149:36)
+      at ReadStream.emit (events.js:376:20)
+      at addChunk (internal/streams/readable.js:309:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
